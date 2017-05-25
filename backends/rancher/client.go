@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	log "github.com/bacongobbler/confd/log"
+	log "github.com/ForgeRock/confd/log"
 )
 
 const (

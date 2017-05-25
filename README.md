@@ -1,7 +1,5 @@
 # confd
 
-[![Build Status](https://travis-ci.org/bacongobbler/confd.svg?branch=master)](https://travis-ci.org/bacongobbler/confd)
-
 `confd` is a lightweight configuration management tool focused on:
 
 * keeping local configuration files up-to-date using data stored in [etcd](https://github.com/coreos/etcd),
@@ -20,9 +18,9 @@
 Go 1.6 is required to build confd, which uses the new vendor directory.
 
 ```
-$ mkdir -p $GOPATH/src/github.com/bacongobbler
-$ git clone https://github.com/bacongobbler/confd.git $GOPATH/src/github.com/bacongobbler/confd
-$ cd $GOPATH/src/github.com/bacongobbler/confd
+$ mkdir -p $GOPATH/src/github.com/ForgeRock
+$ git clone https://github.com/ForgeRock/confd.git $GOPATH/src/github.com/ForgeRock/confd
+$ cd $GOPATH/src/github.com/ForgeRock/confd
 $ ./build
 ```
 
