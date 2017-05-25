@@ -1,3 +1,11 @@
+### v0.13.0
+
+51b8b9a updates the package name
+cc5eff9 Update quick-start-guide.md
+51beecd feat: add option -env-sep which allow the env backend to use another char separator
+809b562 also react to the fsnotify.Remove event
+e464ce6 rename all references to kelseyhightower/confd
+
 ### v0.12.1
 
 17e1d2a Revert "json-backend: initial pass of json backend"
